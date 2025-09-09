@@ -7,5 +7,7 @@
 Pseudo Code
 
 Make variable for year input as an integer
+
 If statement with the restrictions of if the year int is divisible by 4 and not by 100
-  Print year and output if leap year or not in if statement
+
+Print year and output if leap year or not in if statement
