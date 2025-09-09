@@ -1,7 +1,7 @@
 ## Leap Year
 
 1. Get the year to check if it is a Leap Year
-2. Use division to check if the year is divisible by 4 and no divisible by 100 or divisible by 400
+2. Use division to check if the year is divisible by 4 and not divisible by 100 or divisible by 400
 3. Output if the year is a leap year or not
 
 Pseudo Code
