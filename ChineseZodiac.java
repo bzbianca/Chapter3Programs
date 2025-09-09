@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import static java.text.ChoiceFormat.nextDouble;
-
 public class ChineseZodiac {
     public static Scanner scanner = new Scanner(System.in);
 
